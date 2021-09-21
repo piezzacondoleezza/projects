@@ -1,2 +1,2 @@
 # projects
-simple projects
+non-olympiad code
